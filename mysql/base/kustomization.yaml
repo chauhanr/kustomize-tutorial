@@ -1,0 +1,10 @@
+
+commonLabels:
+  app: prod        
+
+resources: 
+- secret.yaml 
+- service.yaml
+- deployment.yaml
+
+
